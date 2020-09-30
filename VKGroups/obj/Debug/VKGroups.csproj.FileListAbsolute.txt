@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\VKGroups\bin\Debug\VKGroups.exe.config
+C:\Users\admin\source\repos\VKGroups\bin\Debug\VKGroups.exe
+C:\Users\admin\source\repos\VKGroups\bin\Debug\VKGroups.pdb
+C:\Users\admin\source\repos\VKGroups\obj\Debug\VKGroups.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\VKGroups\obj\Debug\VKGroups.Properties.Resources.resources
+C:\Users\admin\source\repos\VKGroups\obj\Debug\VKGroups.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\VKGroups\obj\Debug\VKGroups.exe
+C:\Users\admin\source\repos\VKGroups\obj\Debug\VKGroups.pdb
